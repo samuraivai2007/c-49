@@ -1,0 +1,38 @@
+h1{
+    color: lightcoral;
+    border: 10px solid dimgray;
+    background-color: dimgrey;
+}
+body{
+    background-color: #ffffcc;
+}
+img{
+    border: 3px solid black;
+}
+p{
+    font-family: comic sans ms;
+    font-weight: italic;
+}
+ol,ul{
+    font-family: comic sans ms;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    font-size: 30px;
+    color:beige;
+}
+.header{
+    display: flex;
+    justify-content:center;
+    background-color: aqua;
+    font-size: 30px;
+    color:beige;
+}
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
